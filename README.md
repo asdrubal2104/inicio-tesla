@@ -27,8 +27,14 @@ Este es un proyecto de landing page de Tesla diseñado y desarrollado utilizando
 
 ## Cómo Ejecutar el Proyecto
 
-.Clona este repositorio a tu computadora:
+1.Clona este repositorio a tu computadora:   
+    ```bash
+   git clone https://github.com/tu-usuario/landing-page-tesla.git
+2.Navega al directorio del proyecto:
+   cd inicio-tesla
+3.Instala las dependencias del proyecto
+   npm install
+4.Inicia el servidor 
+   npm run dev
 
-   ```bash
-   git clone https://github.com/tu-usuario/inicio-tesla,git
 
